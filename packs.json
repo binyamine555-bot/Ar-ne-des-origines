@@ -1,7 +1,7 @@
 {
  "format": 1,
  "jeu": "arene-des-origines",
- "genere": "2026-10-26T00:14:11Z",
+ "genere": "2026-10-26T01:10:42Z",
  "apk_etages": [
   1,
   5
@@ -443,8 +443,8 @@
     11,
     20
    ],
-   "taille": 103940043,
-   "sha256": "9aa71b41bd83889100b652d156a1aa2e82075c8cb94671f816999c1143cf5e33",
+   "taille": 103918338,
+   "sha256": "4ad1e3df21d0fd00c907d798bc81a7f9ae8000b5cab76f79e1d3e37530678ef9",
    "fichiers": 420,
    "contenu": {
     "cine": 120,
@@ -452,224 +452,224 @@
    },
    "parties": [
     {
-     "chemin": "p/9aa71b41bd83889100b6.000",
+     "chemin": "p/4ad1e3df21d0fd00c907.000",
      "taille": 2400000,
      "sha256": "b90390d75133ba4fc5b2bdbbb929a7174eeec0804878aec0c3b8d406f7d2beb6"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.001",
+     "chemin": "p/4ad1e3df21d0fd00c907.001",
      "taille": 2400000,
      "sha256": "6f3bf27d72bf8be330806cd249ae536b19e03d28ad67b635b63dc1e915d45d7f"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.002",
+     "chemin": "p/4ad1e3df21d0fd00c907.002",
      "taille": 2400000,
      "sha256": "63f4565e8c8c58c72e0c49c45176f6945e90ab9a645ec0c38e13ddaa37ed58e0"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.003",
+     "chemin": "p/4ad1e3df21d0fd00c907.003",
      "taille": 2400000,
      "sha256": "24c24a8d2909e15140c576944083199d2ea2a1fd56f6a0ade2c4cdfc27ff8afb"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.004",
+     "chemin": "p/4ad1e3df21d0fd00c907.004",
      "taille": 2400000,
      "sha256": "2b6e43397136e0799c117f56e30df90cbb344c690c49fd29c7db547a63cdfd94"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.005",
+     "chemin": "p/4ad1e3df21d0fd00c907.005",
      "taille": 2400000,
      "sha256": "e7352a7c9d141d2b5e5b25aec664747e87c29cc58b8e4fd0271442ab7e6334f8"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.006",
+     "chemin": "p/4ad1e3df21d0fd00c907.006",
      "taille": 2400000,
      "sha256": "4ddc482186393ac948cac3ab5dd0c4511b704d565032cbdd092410984adca80e"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.007",
+     "chemin": "p/4ad1e3df21d0fd00c907.007",
      "taille": 2400000,
      "sha256": "88a70a516b7b68cef1a1805428ee7ecf4f4741d814b3d99434a848f233039226"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.008",
+     "chemin": "p/4ad1e3df21d0fd00c907.008",
      "taille": 2400000,
      "sha256": "50d137e8c863a9f82b403522672880c6464272a377ddcdc04dcc85049731e037"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.009",
+     "chemin": "p/4ad1e3df21d0fd00c907.009",
      "taille": 2400000,
      "sha256": "87d4feb3a092d2bb882024dacbb6a04b90f4e5768f4669501aefede03899f8a9"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.010",
+     "chemin": "p/4ad1e3df21d0fd00c907.010",
      "taille": 2400000,
      "sha256": "11e9135bc1f24c9e7797a3f0f701ab4514ae893ee3ba4994395b06580d4fe6b5"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.011",
+     "chemin": "p/4ad1e3df21d0fd00c907.011",
      "taille": 2400000,
      "sha256": "eaa6d6f8ca45e42a66a627eaba3220dfd840e9f4622e9a0d9ad18626621e2923"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.012",
+     "chemin": "p/4ad1e3df21d0fd00c907.012",
      "taille": 2400000,
      "sha256": "3eb85530918fc1e0912991706516a5c780f900f9de62a03d5694d1ebe6dbb10a"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.013",
+     "chemin": "p/4ad1e3df21d0fd00c907.013",
      "taille": 2400000,
      "sha256": "bdfcbf84f7a448b13e821ea2efbd47b5a108656a3fd66fa7264add52e74dcb2a"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.014",
+     "chemin": "p/4ad1e3df21d0fd00c907.014",
      "taille": 2400000,
      "sha256": "6d2ab2855210b3bee786390197802a3d61b5d87ac45d1095212b1e19b5a76f29"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.015",
+     "chemin": "p/4ad1e3df21d0fd00c907.015",
      "taille": 2400000,
      "sha256": "23c7d6a9e5c50fc2e768adfd0168456b1231103bde8a078429c3a02f88a0908d"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.016",
+     "chemin": "p/4ad1e3df21d0fd00c907.016",
      "taille": 2400000,
      "sha256": "3574995f25a2535fced61ac1cc7f0867adb87536a79965e723756d3a7955b22b"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.017",
+     "chemin": "p/4ad1e3df21d0fd00c907.017",
      "taille": 2400000,
      "sha256": "47f75a8674f309357ecbd51cfc1918e2b1f5dba33450ab8dec5fd2b9d9d815bd"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.018",
+     "chemin": "p/4ad1e3df21d0fd00c907.018",
      "taille": 2400000,
      "sha256": "b324cc0df51149a47a175eaabad97c47053e0150e98d680c30c18435f4669e01"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.019",
+     "chemin": "p/4ad1e3df21d0fd00c907.019",
      "taille": 2400000,
      "sha256": "b6a24691d359e64bfe00ec88f82faee668ce8f252e31951c4d2645b7ae4f3de6"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.020",
+     "chemin": "p/4ad1e3df21d0fd00c907.020",
      "taille": 2400000,
      "sha256": "eb4da005dbba0c86364fac524cd6b857fc5fc0d49edaa1b6fba0cef77eef3944"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.021",
+     "chemin": "p/4ad1e3df21d0fd00c907.021",
      "taille": 2400000,
      "sha256": "c7c50ec70694a413a5b1dd6dba9d6ecefd2898894a88fa3b21d36121b082c177"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.022",
+     "chemin": "p/4ad1e3df21d0fd00c907.022",
      "taille": 2400000,
      "sha256": "1fb7eb79cd164de18aab45d868b742bbece96d9d2f724aabd14f9111aff975be"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.023",
+     "chemin": "p/4ad1e3df21d0fd00c907.023",
      "taille": 2400000,
      "sha256": "79156137a4483360f9f2eebc4320da057763e6c83193127f157323d754bcc43c"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.024",
+     "chemin": "p/4ad1e3df21d0fd00c907.024",
      "taille": 2400000,
      "sha256": "e9ce175587774644f69a10f307086a34c380c91177a758462e904d915c248df2"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.025",
+     "chemin": "p/4ad1e3df21d0fd00c907.025",
      "taille": 2400000,
      "sha256": "d56c4aaf5e1e62ddbcd3f88498c032da705311db4df62cc406fd983e4dd8a662"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.026",
+     "chemin": "p/4ad1e3df21d0fd00c907.026",
      "taille": 2400000,
      "sha256": "30e7cc1815096da3213b8942e62dbc379d7a9cc8e4454fed498822491cb290e0"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.027",
+     "chemin": "p/4ad1e3df21d0fd00c907.027",
      "taille": 2400000,
      "sha256": "7e4d3ffa5da9737a0b6d7de6654c5f00b0e6022fe5af82dfa56e31771e156152"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.028",
+     "chemin": "p/4ad1e3df21d0fd00c907.028",
      "taille": 2400000,
      "sha256": "cc4df1d2b7d1027606ee1dcd0f1f9d0c637d575c51a754fa60827e83b07bb522"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.029",
+     "chemin": "p/4ad1e3df21d0fd00c907.029",
      "taille": 2400000,
      "sha256": "ff80005798d063894e51c7e9a7efbb1951a7a3042210b10feed7aeecad51f057"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.030",
+     "chemin": "p/4ad1e3df21d0fd00c907.030",
      "taille": 2400000,
      "sha256": "ef878a93f5c90c5b72879dd4457e57c51401107089f33369ab22c696d61c30b6"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.031",
+     "chemin": "p/4ad1e3df21d0fd00c907.031",
      "taille": 2400000,
      "sha256": "53a29e87e46bd8f60d427eaceab68a89b6c43d223e4dec8c92ed05b6909633fe"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.032",
+     "chemin": "p/4ad1e3df21d0fd00c907.032",
      "taille": 2400000,
      "sha256": "fc1459574682d4ebe6d33acae83af667d499f105d2c89d047a351e5b8b4acba5"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.033",
+     "chemin": "p/4ad1e3df21d0fd00c907.033",
      "taille": 2400000,
      "sha256": "af03461a7a216318ec59952e049ce019e967f592286b702b48e52a13fc87be9a"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.034",
+     "chemin": "p/4ad1e3df21d0fd00c907.034",
      "taille": 2400000,
      "sha256": "5ce105e722dc105b0db17a62ee48bdd1d08624b2c53897d7e3c54682b4ceed84"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.035",
+     "chemin": "p/4ad1e3df21d0fd00c907.035",
      "taille": 2400000,
      "sha256": "9f9749a14c5a387646ce47b352bbaa38be128035778afbe5ccce06a8bca7448a"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.036",
+     "chemin": "p/4ad1e3df21d0fd00c907.036",
      "taille": 2400000,
      "sha256": "706d7ee0cf459e50eec2e0f3cf3813202bc4570b29c48a8c67440fac6fbe69fc"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.037",
+     "chemin": "p/4ad1e3df21d0fd00c907.037",
      "taille": 2400000,
      "sha256": "de11997af12b025b98481a32c4d672a38dd81f61e12660095f70098f3af0260c"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.038",
+     "chemin": "p/4ad1e3df21d0fd00c907.038",
      "taille": 2400000,
      "sha256": "0b1aa89dcdbf81f6b8fdbe2f733a6c69347651c988e8318a1452516ff8d81c1f"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.039",
+     "chemin": "p/4ad1e3df21d0fd00c907.039",
      "taille": 2400000,
-     "sha256": "2cd77ddd1acf0ded3167707d5fddb0cd893fe0a5ff15a4021812ee9bd4181b41"
+     "sha256": "d7089c1d24b6ed8a660b53ca32f69a738c2365b293089afa8b02a45f53538f3e"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.040",
+     "chemin": "p/4ad1e3df21d0fd00c907.040",
      "taille": 2400000,
-     "sha256": "9888b51f989785c35ef7fe2890f1789704d752b5dfa4531241a92644e0225955"
+     "sha256": "4e14caa2b914fbd00e2ce4e1b70322d8f078a80369d6c0bf2a556e22fd874fbd"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.041",
+     "chemin": "p/4ad1e3df21d0fd00c907.041",
      "taille": 2400000,
-     "sha256": "96e05814af26d5cfd40d58753bde863f7219449e34a56dc30295983550b9c9b2"
+     "sha256": "9e4bad88332235ccf95d0c3ee6fc4e5cd2834901cc75e4e15a91b3af2f76c300"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.042",
+     "chemin": "p/4ad1e3df21d0fd00c907.042",
      "taille": 2400000,
-     "sha256": "5732bb43bfda682178acde95e6a3b4ce80bfd2103ac204ea8a4b64fdde32ef11"
+     "sha256": "a5b15bedaf763d58ed42aeee59d315d0e9a92230ec9bac1a5bd85c175b85cd55"
     },
     {
-     "chemin": "p/9aa71b41bd83889100b6.043",
-     "taille": 740043,
-     "sha256": "1a3973e22f6a7dd7efa8a3bd019d97cf83e3734128974636910fd9f70b65b733"
+     "chemin": "p/4ad1e3df21d0fd00c907.043",
+     "taille": 718338,
+     "sha256": "cfec5a3cb9a5edbb31a0c73bc611dd4ffc279d9d955630d790db041555df2660"
     }
    ],
    "liste": [
