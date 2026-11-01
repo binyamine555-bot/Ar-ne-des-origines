@@ -1,0 +1,6 @@
+# Branche de téléchargement : pas de builds ni d'archives
+*.apk
+*.aab
+*.zip
+*.exe
+builds/

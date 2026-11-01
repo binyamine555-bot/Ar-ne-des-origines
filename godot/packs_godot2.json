@@ -1,0 +1,2260 @@
+{
+ "format": 2,
+ "jeu": "arene-des-origines-godot",
+ "genere": "2026-10-31T19:31:16Z",
+ "apk_etages": [
+  0,
+  2
+ ],
+ "apk_qualite": "hd",
+ "packs": [
+  {
+   "id": "godothd_00_02",
+   "etages": [
+    0,
+    2
+   ],
+   "qualite": "hd",
+   "taille": 63806202,
+   "sha256": "302c941a6795a86b145e86f7f705d37a095bea717db93c2a9532b7ab5fe65c16",
+   "fichiers": 70,
+   "parties": [
+    {
+     "chemin": "phd/302c941a6795a86b145e.000",
+     "taille": 2400000,
+     "sha256": "110f1660ff7560925531bac6fd08a9b1ceefa9bb170dc3ef85d4e63b4623c111"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.001",
+     "taille": 2400000,
+     "sha256": "a87c62e4c0182e37d2e425a19a00b89c6e0b9a527fdd4b573548fd71268c0c17"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.002",
+     "taille": 2400000,
+     "sha256": "88a188cbfedbc40d95540669170085686967a0753dab60496759e51d3d46d763"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.003",
+     "taille": 2400000,
+     "sha256": "614fe3371844700eba7b86209ee6116f66b8a85b06ac05eaf98318a65eff45d8"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.004",
+     "taille": 2400000,
+     "sha256": "c5e427f58c9442a80d3c293bfadfa3175297dec20196d2427898c4cd4aca67cb"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.005",
+     "taille": 2400000,
+     "sha256": "60316ad86367ae8a5d0a41f1b20cb135e512157d4831acd7ac7fa5e779b0d7c5"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.006",
+     "taille": 2400000,
+     "sha256": "1f22088113c340b2bc39faace8d074e2989afeef969af3e7fd867a7990042224"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.007",
+     "taille": 2400000,
+     "sha256": "f41eb40e2317996b3409f2e6eb2edeb416e437c539509da5fa351043c614958b"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.008",
+     "taille": 2400000,
+     "sha256": "0d454e957fd23729c89a0dcfb45f13de14b32b2aade38e1076103e2204b7a604"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.009",
+     "taille": 2400000,
+     "sha256": "672f4e6f9e587d47a4effa2506fca37783fa40675ccb27ed91b5a86994e7f4bf"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.010",
+     "taille": 2400000,
+     "sha256": "9d0fdb876d4fed4f9206f8aa6263c6d84b3e88f170be051fcf038c5a7c390412"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.011",
+     "taille": 2400000,
+     "sha256": "92a35537bdd1cbb9b5ab7c8cf18a2c556bbba17ee7c8378d9308df4d921d3a62"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.012",
+     "taille": 2400000,
+     "sha256": "9a111251d5aa92dd21226e8f249266f70fe44f708502f3decb85d6e698ef0964"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.013",
+     "taille": 2400000,
+     "sha256": "a6749c93d494de69b10c857debdc3cbeef037a99b152b4cc320c37aeb13386db"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.014",
+     "taille": 2400000,
+     "sha256": "5b3d10423744611ba79448ebd95022865c1dd922d66ef5ac0d2bf789c7bb521c"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.015",
+     "taille": 2400000,
+     "sha256": "df306a3a0cb6ba2f0b9625761410506c178872012672835195bcda2c3eb7d8f0"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.016",
+     "taille": 2400000,
+     "sha256": "478750bc9f45d9c98c6638f407cc6eb8bccff65c2389009ae3694dc56a932ce9"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.017",
+     "taille": 2400000,
+     "sha256": "1d215a3cad472873b51a7478306a1b0fba808b6fc797b10662ebe5957a6a1e1b"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.018",
+     "taille": 2400000,
+     "sha256": "67ce1b02367cbf9531a381c0041d03b8cffbbe01263aaab4ca1ddca197aa3ac9"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.019",
+     "taille": 2400000,
+     "sha256": "c25c6f8cf38a03c251def2035ef0357147cea18dacf2d011a707d6b074becbf8"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.020",
+     "taille": 2400000,
+     "sha256": "79082555c96eddf06e0973b48ac285d0244520e5188af816967bcaec1fbea210"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.021",
+     "taille": 2400000,
+     "sha256": "2583d057217a35ffd3649ba2defa71142b041eac440a712c5e4bf644815aebe2"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.022",
+     "taille": 2400000,
+     "sha256": "529afde3c5a7cb730fb02f36c96ffcc2804ff2d814b7c6b96932e679fc982c93"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.023",
+     "taille": 2400000,
+     "sha256": "67496b83162343b899b16fe987af85295499dda7cb2f4c5a20662a99253c95f8"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.024",
+     "taille": 2400000,
+     "sha256": "569a0ad68e68d30277b417c5dfee0a99faaf1e500eafbedfad82d28e94376f26"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.025",
+     "taille": 2400000,
+     "sha256": "876564783389ab56891227cddf70664ba1cfeaa18cbdc502edbaab1e7836da3b"
+    },
+    {
+     "chemin": "phd/302c941a6795a86b145e.026",
+     "taille": 1406202,
+     "sha256": "498be7be8752db8ae6f51ddf8272398d77c6e04db4f27f1946640779f00bea49"
+    }
+   ]
+  },
+  {
+   "id": "godothd_03_05",
+   "etages": [
+    3,
+    5
+   ],
+   "qualite": "hd",
+   "taille": 126889275,
+   "sha256": "d5e7bcf3910e277a6f905729bfa4aa5386ee1c21a117d4b0521bf9b41d8c92be",
+   "fichiers": 70,
+   "parties": [
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.000",
+     "taille": 2400000,
+     "sha256": "47e81154ce8d93306fa9f117f5249d3bc44716b0fd92ef2525efaedbda60cb00"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.001",
+     "taille": 2400000,
+     "sha256": "711a2fe26a8ea53c9542ee9975a447a60ad9627cbf51cdf7273d6983512aea67"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.002",
+     "taille": 2400000,
+     "sha256": "986c235fb9e201fc14755406fae7898a239c34d0706f32851e27e73a0c520483"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.003",
+     "taille": 2400000,
+     "sha256": "f1fe0737109bb66b61bdcc2953bc6c07bebb1fd04c15babdcf5f58c4e7b42428"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.004",
+     "taille": 2400000,
+     "sha256": "d2e4626ec6e0c53357f94e9e41a1791a756a42795d9a68f6c254a95a63bed3ce"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.005",
+     "taille": 2400000,
+     "sha256": "407243648a2a94717d8ecaa57bcc5f948538e7302cf9665787a9cfbc6adc6f66"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.006",
+     "taille": 2400000,
+     "sha256": "15107edec541c9b5f0475aa02b569c7d6c7998422d8cd66a14cb1dc6101d7583"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.007",
+     "taille": 2400000,
+     "sha256": "c3d750905b1e19f7992980781939a7660ab960160978c93f331993631d698a64"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.008",
+     "taille": 2400000,
+     "sha256": "5250559c6a7996e030e7806a1b18eab9641916131218a6cf931c541f2298733f"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.009",
+     "taille": 2400000,
+     "sha256": "395e6cf755460e4823837e0ad85dd58d5ba882140fd5a39aacdb87e766604b59"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.010",
+     "taille": 2400000,
+     "sha256": "cdb8437d9a35c432e01409063960b5ce72f745570b947f6914e3732e2ce2e0be"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.011",
+     "taille": 2400000,
+     "sha256": "d1bda7d1022ed135c923b4901fc83969ad4199d2f8df9c9bd78b27e8c4e878b4"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.012",
+     "taille": 2400000,
+     "sha256": "9e0ae2dcac2f576dce4f9713d863c1e2e5297b71093d3230955f18a099159c51"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.013",
+     "taille": 2400000,
+     "sha256": "6caff2e6256e4c4829f979e5c5815d2aadc2e52c515a6365c03bd31bcfae8854"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.014",
+     "taille": 2400000,
+     "sha256": "ac86cc5934fa207669c2246c95b0457bcd1a7f09f00f2f7cb678018cd87154b8"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.015",
+     "taille": 2400000,
+     "sha256": "26a414a142dc8d7c3c05859e8a9294014d08a67313c0e1d66053d18133523f78"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.016",
+     "taille": 2400000,
+     "sha256": "50b2cdf9e159cc9cffefa0a8f2ddbd0bb3a5febaea07eb218e314ef350f582d4"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.017",
+     "taille": 2400000,
+     "sha256": "86700f0ee74ea6af9c1b52fc3ee5b500ca4303234bf1e6a7a02a1e09e82f35e8"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.018",
+     "taille": 2400000,
+     "sha256": "be27c006fb05c55488abbc24acc46e94e4c57fdf0411cb39bfce44351d226d66"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.019",
+     "taille": 2400000,
+     "sha256": "fb2fc3979011211757363c007174d59141d3c2ffdf8a9b9d926b41908ba3db34"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.020",
+     "taille": 2400000,
+     "sha256": "d1816ee62696b9c54eb5042ca3b307ff7539a2f501f6bed3028a16d2a579aa7c"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.021",
+     "taille": 2400000,
+     "sha256": "753c1ce569930d95035fa7e7ed0c9c1d7e2ded10c589ca72e9a9936a6c31bb6d"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.022",
+     "taille": 2400000,
+     "sha256": "b9ae1811fab22c833409a601fb696fd74af45e89d1c0621832ce67bb4146a7e6"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.023",
+     "taille": 2400000,
+     "sha256": "53c6296da055214fc2474b92db605dc64bfe6569e89a1bb7335eb924a9fc2b52"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.024",
+     "taille": 2400000,
+     "sha256": "9b478061e61df52f62ef415da3983b54081771d2c0b75b526f6cc9a3f098579f"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.025",
+     "taille": 2400000,
+     "sha256": "1f23663e09d5ac1598b6924cd6534ee1d09128b8c3fba2acba01c1b8ecfe0349"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.026",
+     "taille": 2400000,
+     "sha256": "0020ba427bdd5e1b2e600636f942c2d5efc0c1013297e8e0ef38da05c43d54f0"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.027",
+     "taille": 2400000,
+     "sha256": "a85f4c4109df2dd249f11548641b9087458cc8f36675fe5e84045314cd6b293d"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.028",
+     "taille": 2400000,
+     "sha256": "909662d7852c63e7ee3e8b0591a45e05dfde795b89f156b09a4cbc87bd34ec95"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.029",
+     "taille": 2400000,
+     "sha256": "0d82650a81ed6ccc44377537559a7d8896ea2ec2c78eba254011a6d322adaf0e"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.030",
+     "taille": 2400000,
+     "sha256": "d0a416a5a040a25ecc8cb1447f590560baf90699a44a90323da4125f55505837"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.031",
+     "taille": 2400000,
+     "sha256": "b0e7e4d9496b9b5504a68519b40de67185bf8e0d2b39eeab371d193fa696b28d"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.032",
+     "taille": 2400000,
+     "sha256": "f09c10141d4831d3d37cc93a0b8e2f68f3e1ee1840ec0f30b5f7a53001e79d8f"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.033",
+     "taille": 2400000,
+     "sha256": "66f07ac771f8ae10d8534f61ba07a55acdf3cc0bc584960af6f0f3bc4e348e6d"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.034",
+     "taille": 2400000,
+     "sha256": "e77589a5f6450f0809d0fcc22ae3bb9726cb86b1fc1256c0a20941fca88d3fb8"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.035",
+     "taille": 2400000,
+     "sha256": "25d7cb6f2c4dc09850f315900529137ca7fe013bd2a5f472f3a95a7d0c1101db"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.036",
+     "taille": 2400000,
+     "sha256": "43ce6899bbf915c91e5a65286fb70ac81a2169d1418d955d4d32a2404adb0469"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.037",
+     "taille": 2400000,
+     "sha256": "d2230fb5e5e544efb7eee1200221eb8be7746c4e95eeeeedbbee50d7b7a99377"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.038",
+     "taille": 2400000,
+     "sha256": "dafb0361b67ad9dd08550137999d019ae96a858590320db335dfe2472c4637e6"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.039",
+     "taille": 2400000,
+     "sha256": "4f89f47a35f580339a23bb8c8f99538ba5b4e67bb7f51e38cdfaa46f29f000cf"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.040",
+     "taille": 2400000,
+     "sha256": "6abc76b1bd37205c6ace735a9d8651cab29777e33fc0c3c3e17be470a2f8408e"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.041",
+     "taille": 2400000,
+     "sha256": "e750eb502174a6a4657edcf3ea51d1ae989bebd79bc7b79f24c1875b665562d2"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.042",
+     "taille": 2400000,
+     "sha256": "ce4f9b4974490e529a56c75a085c495b9debc1552260a5d0fe863f6d7e96cf7c"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.043",
+     "taille": 2400000,
+     "sha256": "92ca006e2cabb3b1d8374056070e3cfac8a9b71ff359a24a74701d3eb1319687"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.044",
+     "taille": 2400000,
+     "sha256": "f248e5612a95736f65aba376f7450e54c089088b25c5b49899a7547ad860a0d4"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.045",
+     "taille": 2400000,
+     "sha256": "b1568238cb6ff34f5033579314f3300919d3aa83f9abb3aa4eec745f3b4d6798"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.046",
+     "taille": 2400000,
+     "sha256": "b9d9be178d707bad3bb44255ef892f315b5192eca8e08ea51f91c1f970217247"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.047",
+     "taille": 2400000,
+     "sha256": "719d891ad3a3567b02e6c39a27c6a7a83612b5a92ae960a964cc58c2edd6d705"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.048",
+     "taille": 2400000,
+     "sha256": "10ba1b5848f37920f380187e516da8bee12ed224a0122cf213ee957dc0aecd9a"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.049",
+     "taille": 2400000,
+     "sha256": "3b695fb9eef098967ea55a22e0de3230fa371051f7e67e9fd705148251877df3"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.050",
+     "taille": 2400000,
+     "sha256": "f31afb71636ad6f9baea5f2c61505e4da739980c2d955bc31fd451dcad1cb842"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.051",
+     "taille": 2400000,
+     "sha256": "c1f905ca1be813d32806eace4b801857025a6ba9bc1e19b6ab6fc1b81ef1aa6f"
+    },
+    {
+     "chemin": "phd/d5e7bcf3910e277a6f90.052",
+     "taille": 2089275,
+     "sha256": "aa35d655f2857703711aa5faba3b8d15fa098273c1f39ca9e9ed5445b9267055"
+    }
+   ]
+  },
+  {
+   "id": "godothdleger_03_05",
+   "etages": [
+    3,
+    5
+   ],
+   "qualite": "leger",
+   "taille": 28093414,
+   "sha256": "46e20cee2025b404dd0d2ec7914dbfc74125295ff163b8d8322929fc3abeea5d",
+   "fichiers": 70,
+   "parties": [
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.000",
+     "taille": 2400000,
+     "sha256": "153fcff1ea69c5d5a8d31057024d681d75b8fafd4f8b81e4a327ec6f6b4effbe"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.001",
+     "taille": 2400000,
+     "sha256": "8e0f2a36295a8de1fb9f20d6ac35df19726a248b27146e5f565b79a955199eb3"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.002",
+     "taille": 2400000,
+     "sha256": "06861ed9b27c1b57a210742285781a8aaf51bc48f58620f66d7c2b311bfd9a81"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.003",
+     "taille": 2400000,
+     "sha256": "aa68917c9448313eebf835f363704962a821ba13981d80857686573c0ddb0328"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.004",
+     "taille": 2400000,
+     "sha256": "37420aa0989bed7aa2983af87661746fe9e893fa0dca6934f01fd2bd271c94ec"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.005",
+     "taille": 2400000,
+     "sha256": "141ad5785c2b2a8d2cb24ac51272a8111f4c9420ab3ede753c1e10af41f2fc75"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.006",
+     "taille": 2400000,
+     "sha256": "61c261823c73fb707c7133172cb88914adc0316a1f2bea7cd6cb7866db9f7a60"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.007",
+     "taille": 2400000,
+     "sha256": "0ae26e653c3e7967151dfb962defbf30cf1dec82f6708514a9e12b5d5bccb5bc"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.008",
+     "taille": 2400000,
+     "sha256": "7261b80dcb99dab752a22b4a106272f88d061eca85f54a12ba7e7207529d774e"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.009",
+     "taille": 2400000,
+     "sha256": "09a1b4278dcc1c14f7996f0baa836a61b5ba1611724dfb25471af6ab17433b6e"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.010",
+     "taille": 2400000,
+     "sha256": "cb25bab70e08160fa2fbb0dd6b68fc2b222c41917d5497f6c822c892837b1bbd"
+    },
+    {
+     "chemin": "phd/46e20cee2025b404dd0d.011",
+     "taille": 1693414,
+     "sha256": "005342469fabd0699a373daa6f75606c740d408fe80890ec857b217c173a5be5"
+    }
+   ]
+  },
+  {
+   "id": "godothd_06_10",
+   "etages": [
+    6,
+    10
+   ],
+   "qualite": "hd",
+   "taille": 90377561,
+   "sha256": "20b01dfab15a10fbca37406b042c42ea3fcc5c0c011aa0e33da611ece3e0b584",
+   "fichiers": 148,
+   "parties": [
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.000",
+     "taille": 2400000,
+     "sha256": "dc3d01c3c3bc30241a3fdddc02d6abdf29109f580fe326459c1327c7543709f9"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.001",
+     "taille": 2400000,
+     "sha256": "65add3bc5d4c938210ece4bf8d7f61fe555375561d09414946a765477ef0856f"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.002",
+     "taille": 2400000,
+     "sha256": "86d2a0729a84c68cb2679afd9d43264c69cfe760f40461ab09601bea919996ea"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.003",
+     "taille": 2400000,
+     "sha256": "5a0e7df9bfe89a8e20aa61ff8a8fedd2bed90f12823152089a5bdaff366598e4"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.004",
+     "taille": 2400000,
+     "sha256": "531af37ac7fb76f451b412d5bdf92171fe1470bfda8907b709529fd99c954ed1"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.005",
+     "taille": 2400000,
+     "sha256": "8c33b92067e8fb6a8581586ba4b7f938327704bb35710c94d1491e792c5b4a4d"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.006",
+     "taille": 2400000,
+     "sha256": "988cf39f4bfeabee3a58c474e518b49053ea06ccac357f724dbe745413d475cf"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.007",
+     "taille": 2400000,
+     "sha256": "fe801afb7acb5517b14d76815448aabe026b42e1f771a50d0ec921886e94c3c8"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.008",
+     "taille": 2400000,
+     "sha256": "d8e812c2d24a79bb64f39c05a3f0b913502c82a02e464b4eddc7ec69ba9ad5f0"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.009",
+     "taille": 2400000,
+     "sha256": "93a38c43cf5b1652569e3e8a5252c49f3452ee9a512734b188ef54348b10ca11"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.010",
+     "taille": 2400000,
+     "sha256": "ba53f08f74ad99cab780ef1f7cf1e84589beb8f22a80b76e8f17106be5e9356f"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.011",
+     "taille": 2400000,
+     "sha256": "370a88a48c398570b0a8f9f8f737791c64edeffda4d6f41f5fa43473b08bfe79"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.012",
+     "taille": 2400000,
+     "sha256": "fa71d03be5317e1d5301eefe9765ca2728dc242d4bacc3086bf3fff467dd6ee5"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.013",
+     "taille": 2400000,
+     "sha256": "ee6e4f9e986e47f2fb50ed39f980126f2f05cd19b0a72869bec3f9d11ae988c2"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.014",
+     "taille": 2400000,
+     "sha256": "0d89d5971492e6f01c375c6aaa682695c43220e6bc5cd24b423e97a32ed45e5b"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.015",
+     "taille": 2400000,
+     "sha256": "cd9850967cb9007f8aeb26f7ea41457f06268add29b4e6d419460cc63c213014"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.016",
+     "taille": 2400000,
+     "sha256": "ad7f3eeb1561651f4b47a9ac80e8dbd849917702f7ffe15255484b29c9ddcb73"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.017",
+     "taille": 2400000,
+     "sha256": "5f8b7ccd9fe0033955d5c4ee9a1550cdd9d05bcfdd30cfa35b374e2857fd575f"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.018",
+     "taille": 2400000,
+     "sha256": "49b3cb5b09e5a4ab8c9e976acc5f96bdb85dffa4771b9ab7922c07c3449ed492"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.019",
+     "taille": 2400000,
+     "sha256": "3e4a6fd35bb16f6f580ca24b2deca4dd557fc8d6788cd8e5c5d176f0b627bef7"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.020",
+     "taille": 2400000,
+     "sha256": "199f61e45cf491604a879e0f3d738972edd9d0586f22a63266b3a7abfa728985"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.021",
+     "taille": 2400000,
+     "sha256": "c973726bb06e6efd714331011714301e24ed1ab6cf2cbe6c935d1c8aad2c3065"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.022",
+     "taille": 2400000,
+     "sha256": "926204e41ca143d53a6ed9eebee7891eb29931701c4744fb80933507e1c8bef5"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.023",
+     "taille": 2400000,
+     "sha256": "425b2871407f5571af9c2b952a0c7112e5f0ad9ac589f813861bd01870e428a1"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.024",
+     "taille": 2400000,
+     "sha256": "bb3384dd562c3763a1fd29519bb8aaa4b1a855fff0f10f09da7718f67ad0a9b1"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.025",
+     "taille": 2400000,
+     "sha256": "8d3b1674212748e84e57426ea96e878a91a06809df4871eabb4c0e1f5336d6f6"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.026",
+     "taille": 2400000,
+     "sha256": "e80b9c5e37e0960df60620750d0cca95fee9932ba26498120726b8295d4f098d"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.027",
+     "taille": 2400000,
+     "sha256": "a44d86911da852793ef743a91c0994c97396a2ace216a716b76fe1c3ec38848d"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.028",
+     "taille": 2400000,
+     "sha256": "829a8d5c496cad60d9bb92a49585493b79a658d4ac76ec73e6fb4cd2a90a1dda"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.029",
+     "taille": 2400000,
+     "sha256": "63446a5bc627eb9c9dfe819b9d31230faa31b009cb9b6f93cccdbd1c1457289c"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.030",
+     "taille": 2400000,
+     "sha256": "af95566ca945c1b6da26626c5fc3f10c99794bc97812793f02a60e71386d3f23"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.031",
+     "taille": 2400000,
+     "sha256": "ba50c1dd3751232c758ab6e273747dd2d12912c90ea26a642d705548ebc3b77a"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.032",
+     "taille": 2400000,
+     "sha256": "dbdb4658de22900caf67c9cbf76e7b71f0cf36e4746805e93f873f0a1cd0d7b9"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.033",
+     "taille": 2400000,
+     "sha256": "4ef6f17248680b4b55598475bda801881288c4acfbf524fb949e1f1a7956107e"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.034",
+     "taille": 2400000,
+     "sha256": "7383140549bfb8a7fd4187f6f1c8a508c3dda74ad1898df38c614e2832689540"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.035",
+     "taille": 2400000,
+     "sha256": "fa21ac94759e4cf8cb4a8da48d84165bf2d7a0466aa01cb2ad2d18a9525b8179"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.036",
+     "taille": 2400000,
+     "sha256": "155edd5423654fb208a904e9a720e7098de08b7f4e8b30d5c070cc4a114301ea"
+    },
+    {
+     "chemin": "phd/20b01dfab15a10fbca37.037",
+     "taille": 1577561,
+     "sha256": "db480e334d1844aabb9be0506cc4c6103935dabb45bee8a67592491580988a69"
+    }
+   ]
+  },
+  {
+   "id": "godothdleger_06_10",
+   "etages": [
+    6,
+    10
+   ],
+   "qualite": "leger",
+   "taille": 49395071,
+   "sha256": "024524aaa0629059adc4ff8d323f03b9f33828b173935f283cf5c9a7619b85f8",
+   "fichiers": 148,
+   "parties": [
+    {
+     "chemin": "phd/024524aaa0629059adc4.000",
+     "taille": 2400000,
+     "sha256": "757cbce57c15d309311e470942976c0a6ddf4467a29c1630034ea67dbf52f873"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.001",
+     "taille": 2400000,
+     "sha256": "2da4314ba6f038c69f765812bc33a6d5abcaf678b7716d61410a0ad56fd11144"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.002",
+     "taille": 2400000,
+     "sha256": "25ce3c43aa10d4dde63906a50fc6becb99aa3ee283a219e8f7a0d595c82ba91a"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.003",
+     "taille": 2400000,
+     "sha256": "9524ef0b551597c0b5e5141aea7831ca02bcc88c8f719cb2bdf578f4e008c6c0"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.004",
+     "taille": 2400000,
+     "sha256": "c61fc6a600f8af58654f72e94fab4d2caef9203e51e53a3211c31661a6eba1b5"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.005",
+     "taille": 2400000,
+     "sha256": "b8dfa739cb3efb880b1b5dd2a56ae4f740edf7c998cca710f7d3232a541e541e"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.006",
+     "taille": 2400000,
+     "sha256": "2560ca160ee6066b9f44af4c545ef868e85216b129da83455106cb9b46b32d4f"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.007",
+     "taille": 2400000,
+     "sha256": "cbab62258a40f8e5da25c1d59a000201bddac620678515457ed40f428bcbdcf4"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.008",
+     "taille": 2400000,
+     "sha256": "0da2fc4050d58fa4e2e160ad9e5b25fe87fd1bdf76a8080a1b689387f1778bf1"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.009",
+     "taille": 2400000,
+     "sha256": "6a5fbec010bdfa64dbcb8bbaacf6ce635ae9b1e2337f3027d877a2af55dc6955"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.010",
+     "taille": 2400000,
+     "sha256": "b356770deb266f2571342514d322dd0f81d61300f915c60684c92790054f9030"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.011",
+     "taille": 2400000,
+     "sha256": "e2fc807f8aa4b74e3bba13f96a41b5d55ac602fcd00b28f5563a19ad6a93e4a6"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.012",
+     "taille": 2400000,
+     "sha256": "1f828404353822de7a3cac06c13a7d69d22b4c29f35cb285fe5abd378b1d2553"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.013",
+     "taille": 2400000,
+     "sha256": "e13f2197e3a7071ef10b896a19863d6a5bdd4b13e25197384b5deb64c876ac7d"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.014",
+     "taille": 2400000,
+     "sha256": "a6d1301d28b1265f6f3b6517a387d74d94911da334f2d88865790b1d0e70a836"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.015",
+     "taille": 2400000,
+     "sha256": "a9b8eb16a7189d729ef908d2b04df8b7cf218edb3393b3aa9587653e1aba257b"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.016",
+     "taille": 2400000,
+     "sha256": "9f6fb1cabc1a04b2fddf427d032138eafd8d4573883aebe9e1daad108d2bf576"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.017",
+     "taille": 2400000,
+     "sha256": "f82a98feb8de68dd986aaf14f47df6eaab196bdae499043279f45b73d8314411"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.018",
+     "taille": 2400000,
+     "sha256": "faaeab60ebebe299b9c9258372efdfd8c786104e604caaadbd887821a7406283"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.019",
+     "taille": 2400000,
+     "sha256": "a6a37f36f851b4acf8f6a86c2e030c35fd3eefe3fc4f647d40508841bce0b92d"
+    },
+    {
+     "chemin": "phd/024524aaa0629059adc4.020",
+     "taille": 1395071,
+     "sha256": "e41b1bfc7fd8682353daee5b6fb18891ab85ac6694076b2436cafe3ebf39bd84"
+    }
+   ]
+  },
+  {
+   "id": "godothd_11_20",
+   "etages": [
+    11,
+    20
+   ],
+   "qualite": "hd",
+   "taille": 128848274,
+   "sha256": "81127b3528592b3ee4fd2e270df190fd1fd650e80e8e19c5833d842cbe212fe6",
+   "fichiers": 240,
+   "parties": [
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.000",
+     "taille": 2400000,
+     "sha256": "31257cd4af363f457b64a8733110fae5f69380df3a96549db5aa9e435fe045d7"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.001",
+     "taille": 2400000,
+     "sha256": "0f668a39a272a5c4f1d39c3f29a72d1fa2529d81470c05fafd8f18e6efec85c9"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.002",
+     "taille": 2400000,
+     "sha256": "7fef18a2e4305a5eb9af309ae47663337fd8f66be87498469c4db301a9d6e0aa"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.003",
+     "taille": 2400000,
+     "sha256": "12d57512c6c7e2f86fb9b86f4432176b77f257c57788dfe6514657bc89c14cd9"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.004",
+     "taille": 2400000,
+     "sha256": "5cc23c8ea83c602423636ee7ac5e9358c8b9a982d082f3dcb0ebd64304665353"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.005",
+     "taille": 2400000,
+     "sha256": "e0ceaa0fe0950ecb990595990985bf514d962bb5717d96a17fc50fb426b05d6c"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.006",
+     "taille": 2400000,
+     "sha256": "20536e09ee48c26ed190bc767405f6078a3f875d249d5326a8e845cc4e4fc252"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.007",
+     "taille": 2400000,
+     "sha256": "19f841ecab436b4b890a54cfe26290aba01928b266308c627b7caadb24a2ff50"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.008",
+     "taille": 2400000,
+     "sha256": "080e24960a4fe1b8a9b893e56735fdd436ad420104fcdb547598f0f410d64170"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.009",
+     "taille": 2400000,
+     "sha256": "458a30446adabcef33657bcd42d58b7bbf60cdcb55d314d9f363692955c2c39f"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.010",
+     "taille": 2400000,
+     "sha256": "0df33207f9197458778544cb8892d18dca7c4054d46ff555f115ff582efbee1d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.011",
+     "taille": 2400000,
+     "sha256": "a1ecfcf1fa38412f357c6a2b1f7b89016699710aacf178c5029a89601abcea3d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.012",
+     "taille": 2400000,
+     "sha256": "5db59da86a1be82d6d0663445e67b660f6afc90de2e3ef1ac99cd5266d5261a0"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.013",
+     "taille": 2400000,
+     "sha256": "1ee7cbf688c641f89fef6b64c64e6a95e5233001b90fbd6f0696953f5ddb006d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.014",
+     "taille": 2400000,
+     "sha256": "b81451289a0d7ab5be8f72bafa33bdcf8997f1c6e38c3eb083a8b8b29104461b"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.015",
+     "taille": 2400000,
+     "sha256": "479d37097fd4ddd7fccec3804837d18580bad69cc1c6cf6763e099a91d3f755d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.016",
+     "taille": 2400000,
+     "sha256": "eea41b809850a397aca6d45d517cf1221ecae51861b0ffd0a3af39e2bde72b87"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.017",
+     "taille": 2400000,
+     "sha256": "2128e8d192bd8ed00a16d0b2f9bf22e24ec8d805f03965ab873b0992e39dcb28"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.018",
+     "taille": 2400000,
+     "sha256": "55436b45023734b5463ff678f101dc05fce325c2c4402d96373c38fe3e90dba3"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.019",
+     "taille": 2400000,
+     "sha256": "b980eed4be9e90aa4d6e0d042ddb4ba29d656c091193bfd8d79864558a3dfabe"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.020",
+     "taille": 2400000,
+     "sha256": "82a57d8a83c9d776a3b97f8f0d3579cc4a1b2c9974b3e00647486eb91c541433"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.021",
+     "taille": 2400000,
+     "sha256": "a65752a2f82b70645ad811b5b723b4a3584d715859cf9c24c82384341810ae59"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.022",
+     "taille": 2400000,
+     "sha256": "c8ab8cfecb8c77a02edbe42aa7fe83d82579d29d8b71280cbbb9a6ed2f71efc6"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.023",
+     "taille": 2400000,
+     "sha256": "748e0776796bf735c0f0e75113a67e7e4d8443fcce726b05d9cacdaa98e91c25"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.024",
+     "taille": 2400000,
+     "sha256": "b955f9f500f5a4259b991ffb494e01f3a262ad6178f1a14a6b1f93aed6e7e739"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.025",
+     "taille": 2400000,
+     "sha256": "609b45982f2c867603fff4c8e40d5fc6960e451dd8050489c1cacf064c16d781"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.026",
+     "taille": 2400000,
+     "sha256": "983876c0f17a0fb167280e5ac0a101deeabf1314ef66ed5e53b90705b84914cb"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.027",
+     "taille": 2400000,
+     "sha256": "299d72b476af9fb4b85f65a6c225c095d55d2716f8eea5bb6582af4ee3feecc9"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.028",
+     "taille": 2400000,
+     "sha256": "173ef755db77fac08b406727ff541c1c037f2761564598ad5ba775edb214b950"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.029",
+     "taille": 2400000,
+     "sha256": "c74ba1229bf353ccaa58da759fd150ec085ad8454da54f7667f4c021ca982f2e"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.030",
+     "taille": 2400000,
+     "sha256": "1eef19f87677bfcaf3c67e079b521494f636383374870e522de20c2f0168eb60"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.031",
+     "taille": 2400000,
+     "sha256": "f30cc7fa0f3c7d8b405c53f00b6ad3ef779c3c8dea1a408f8716c48e21ca4271"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.032",
+     "taille": 2400000,
+     "sha256": "ad64846d0a6cb12f33954cc9aecb97e1ad011c490e5e02909f96f24d13b64501"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.033",
+     "taille": 2400000,
+     "sha256": "40e8a9a9c7c8c28d27ad8a0bb5ade8abecc94f0549f38a1b6d7492cbbec8ea89"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.034",
+     "taille": 2400000,
+     "sha256": "d9fee16618e74e20114c2429975a681475e078ee2d2c9ac9002d89097c537b0a"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.035",
+     "taille": 2400000,
+     "sha256": "e16525c39f43b357b35a50f93e5757ed92a9dd5ab327ff82d2413b279f8b973d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.036",
+     "taille": 2400000,
+     "sha256": "4814c79b602385e173617f242b1c9ea30c3ada8c19ac870cce33f35deed008ed"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.037",
+     "taille": 2400000,
+     "sha256": "77bca88bbb2c899186a8778e8caf5aeed3e59e7a99abcd8135f005551c92078a"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.038",
+     "taille": 2400000,
+     "sha256": "80ae4055eae835ea434fd05c6ff1811947717a98e60c9f6947edf58a52d4a977"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.039",
+     "taille": 2400000,
+     "sha256": "4f3c239050c9a586ea8db93097adcf82668529db854c72f20a6588debef0968f"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.040",
+     "taille": 2400000,
+     "sha256": "dae3c7416d9c89f91f176683128f6aa59601e8311390328663ed889d5ec53922"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.041",
+     "taille": 2400000,
+     "sha256": "003d6456031c8c7fc8cce670ebe29bf9373c04cc0900e97552eabf4b7565818d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.042",
+     "taille": 2400000,
+     "sha256": "fde55c032091e2192b937d199bcceb13737e8ecfbf3390328d134125647c070d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.043",
+     "taille": 2400000,
+     "sha256": "26ccf0d9cc02fb1b562f1f0c4adda628e2a8163ddf73b3c6c6a99f0419615da3"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.044",
+     "taille": 2400000,
+     "sha256": "fd7f3a139d820a9989d8a273ced2913f557d3e93a9e6332ee0d6f14ee132dbc7"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.045",
+     "taille": 2400000,
+     "sha256": "a1eb269c94daa6704081c4cafc84c05169585706b4f1ed100aa183cdf116cbca"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.046",
+     "taille": 2400000,
+     "sha256": "981e82bda193ef88570272b2eaa910d9f2c73c64f9c6e4c9af581f79029d2e7c"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.047",
+     "taille": 2400000,
+     "sha256": "8add77f54bfced8b7a0a9390d0bd4c6d49bdef9eae39554f15a4983d1bd7ac7d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.048",
+     "taille": 2400000,
+     "sha256": "920b2baf8680c419d73f63d442db39bb8c8087cbc87a28c5ac3a3cee260cab8d"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.049",
+     "taille": 2400000,
+     "sha256": "32e67165a79795dc17ece372c532ca5e381e77e3d105fd5c2e70fe3aaa5e5e84"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.050",
+     "taille": 2400000,
+     "sha256": "ccbd91b38bbdfa288ab50e554e159e179470df1a86f4c2ab548636555940a270"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.051",
+     "taille": 2400000,
+     "sha256": "08bfb89bd030bfe6da5574c6988a922fdbf853407c2932a084b0f7a683a5e9b5"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.052",
+     "taille": 2400000,
+     "sha256": "c76547066e800c20c858e0b7bc04ec309876f9ccbe9ec43868fa3ed36800a4ea"
+    },
+    {
+     "chemin": "phd/81127b3528592b3ee4fd.053",
+     "taille": 1648274,
+     "sha256": "8518544d6fa56e774dfe47cf106f1f19a2de33db85f5d928424f0c4ca150ed69"
+    }
+   ]
+  },
+  {
+   "id": "godothdleger_11_20",
+   "etages": [
+    11,
+    20
+   ],
+   "qualite": "leger",
+   "taille": 64521443,
+   "sha256": "d6af3613cf625660c0b884afaf8446ce29aa9929ea88161d9f603006b2576ac8",
+   "fichiers": 240,
+   "parties": [
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.000",
+     "taille": 2400000,
+     "sha256": "e8a510b1e17f2ac5164fd461c7b42a8f6ae0ea7c7914385b6bba0c1e848e837f"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.001",
+     "taille": 2400000,
+     "sha256": "1093378cb25d9a4852c53120e50d62c68ba06d76be938ecb2e2fd981ae9a7afa"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.002",
+     "taille": 2400000,
+     "sha256": "627379bc177397db49538753e7d3a0d2fc463d082959a7da8bcb9a7083ebb83e"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.003",
+     "taille": 2400000,
+     "sha256": "49cdba9d6b400391f1ed4a05950f32efda3cbf4d11d2585a3be4590d58fd7de7"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.004",
+     "taille": 2400000,
+     "sha256": "2c109af026449ec53b62c282a86fb15b846c2d032e74276745acd9dbaf052a6b"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.005",
+     "taille": 2400000,
+     "sha256": "4497ebef4a399eb76b057593d87281ea2a1eb1d609ad88d31a58220cb7247d7b"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.006",
+     "taille": 2400000,
+     "sha256": "e512ec4cba52d00a5274680bf2a1d6065eb6dd7b06ab0e27d393ce4a44aa78c6"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.007",
+     "taille": 2400000,
+     "sha256": "40bcda93c322465ff6e87c01213155c2428aa0fc700a35dda644dbe501d23ae4"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.008",
+     "taille": 2400000,
+     "sha256": "548e048ee8b85db3838c472f8895f9cfe5b474da8b50a4ec231061471c8be458"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.009",
+     "taille": 2400000,
+     "sha256": "5bf897e634c315afa05fceb7b569c8907517ec3558ac6d418f3ab5920404fd57"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.010",
+     "taille": 2400000,
+     "sha256": "f61b6b52ad8f409a7e9d6685485541190ab2e5ece2762ea76ac51aab90d9a3e8"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.011",
+     "taille": 2400000,
+     "sha256": "412cd298f635bc751e798582da795519c73a2895dc3424b2c7488649bff4a305"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.012",
+     "taille": 2400000,
+     "sha256": "ddb37041277ec86172c64b7f92e88e8da4777ff4afab2ad83345297a99bc7bb5"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.013",
+     "taille": 2400000,
+     "sha256": "a214d8e67e84608309b4d51cd6193f927863e35185465fb14e2e5e0720352178"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.014",
+     "taille": 2400000,
+     "sha256": "d38c9462e4917af946af3f0fb2bc91c1da1ddec61452e7e9c6b57b0916a17d4c"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.015",
+     "taille": 2400000,
+     "sha256": "e71ea7cf9bf0e81f8e4a24c50b3c4a52136f462baec32ad03835dee261f13bc8"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.016",
+     "taille": 2400000,
+     "sha256": "6ba189b8162837828ec7494530936c88214299861679736c166f51650c991cd9"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.017",
+     "taille": 2400000,
+     "sha256": "3b35a71fdb4bfc55a15078b6459cfee1bff4b73c4c9a5ffc46a33aec51309a27"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.018",
+     "taille": 2400000,
+     "sha256": "bd41db1fc4236df77caeab278af203ed74c7eb3f8cf86b51963e9cdc72b136ba"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.019",
+     "taille": 2400000,
+     "sha256": "9719e9dff0074b4d9572a3897f7ecf511c0f947e68849e4024845ad04260c496"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.020",
+     "taille": 2400000,
+     "sha256": "80c93ad72bc144d7cc999bbf3154c6372d25883775856456b4a06c65a7bc0f49"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.021",
+     "taille": 2400000,
+     "sha256": "4398d34716a76ca4fafb5e3387a6fc849ff64111daabbf2b691a574427c8571c"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.022",
+     "taille": 2400000,
+     "sha256": "521043e6e453d38d6f21632ba8cf46c3dc8d86b3a8ff6359dc17dbab49fdd338"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.023",
+     "taille": 2400000,
+     "sha256": "7dc31092eaeeb98da46659bf97ab4468df0fae196fe24f0da348faf9adcd6da6"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.024",
+     "taille": 2400000,
+     "sha256": "364d06976cc6d5778159a995f309b3dbc86fc1ca121e5b1250d556639d355f7d"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.025",
+     "taille": 2400000,
+     "sha256": "05092eae7e867397610d72965fe0d07395c295090a45c96edd94600105774b89"
+    },
+    {
+     "chemin": "phd/d6af3613cf625660c0b8.026",
+     "taille": 2121443,
+     "sha256": "157cb536be4766aeacc1164980ef7f0696eac5ba9f0a0f6ded831955c71c32f2"
+    }
+   ]
+  },
+  {
+   "id": "godothd_21_30",
+   "etages": [
+    21,
+    30
+   ],
+   "qualite": "hd",
+   "taille": 165860304,
+   "sha256": "fd4695f8d8a51f24b2b50ee43a4b475ccbd0cfd4a2114c2faf9135b6ab5be64c",
+   "fichiers": 250,
+   "parties": [
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.000",
+     "taille": 2400000,
+     "sha256": "0061e700febcdaa8c456a620c1514d9ceea636541881d6b785895c0835cff2b8"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.001",
+     "taille": 2400000,
+     "sha256": "42f06b8bd90eed9a7ba3203824cdef53dd433fc3433965b1f1fd37d1e8aa4053"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.002",
+     "taille": 2400000,
+     "sha256": "fb0ce51afcb3cc28d19ae949a63509380d40bb7cb8d0dd552707f6af5baa4c0c"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.003",
+     "taille": 2400000,
+     "sha256": "3bf77030cf3afe0a9ba11360011702bacb03d13a3203047eaaeefb5170e5c2a5"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.004",
+     "taille": 2400000,
+     "sha256": "b920fc577762af27799b773f6c2af6e8a44847e0721a51863575f3af78f49786"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.005",
+     "taille": 2400000,
+     "sha256": "e5873a5d8550479a6256a15ebe5eb1897feb5fe1ddd84f7ea374f1c1d3b2bb95"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.006",
+     "taille": 2400000,
+     "sha256": "b99a89bff2eb05d12c25d800d41c35ad63fabdf0170511ec8eb1af94a5f3b236"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.007",
+     "taille": 2400000,
+     "sha256": "ff148276de80471cc7da7d36c517e364dc09221d08af71adda3dcbefc294ea58"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.008",
+     "taille": 2400000,
+     "sha256": "6eb2ea9cfd21a4a875f2bd2eed933ea4c5760b870375d568e7f1bb0c90ae3ab2"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.009",
+     "taille": 2400000,
+     "sha256": "e4a0dfc000666c799ccd5c167aea616f7624e939d8c2effcd2ae4a98d6877ee1"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.010",
+     "taille": 2400000,
+     "sha256": "261bf50f71e27d0d0964030895cd381a7cae6e7a546658257c84f7d84740dde6"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.011",
+     "taille": 2400000,
+     "sha256": "2c5f299fd13901e627d6e20d8fbb3c75f68b2dba2dc69e84231614e82e7c920f"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.012",
+     "taille": 2400000,
+     "sha256": "2412c75f5fd7a81916cff365575ebf374056e734d9e79c10286566d64c1481c1"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.013",
+     "taille": 2400000,
+     "sha256": "ec8ba5652b6e6161058e3c861140b57e8cbbefefe32cf5558446982dfc5d63e9"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.014",
+     "taille": 2400000,
+     "sha256": "9bca8dff0953b77e68b6109f019077208b28380ed1352034a6a5a979b9f9e62b"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.015",
+     "taille": 2400000,
+     "sha256": "e280b7b59b02bd3c843520f4557aad2b1b5a28976dae26a5bf76fe3c208e003f"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.016",
+     "taille": 2400000,
+     "sha256": "53248e89d3c5033339a3f2df494c616f86baac7345b2b2a2954709cbbf400987"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.017",
+     "taille": 2400000,
+     "sha256": "ac095034707c862342c404ed037d75e5d8a73e5154101af58b6736c64203d4d2"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.018",
+     "taille": 2400000,
+     "sha256": "9b49c78e102ad860c7c04da0552246ba7bbd81d030f40fa98b799e47de79560f"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.019",
+     "taille": 2400000,
+     "sha256": "fc55a42e30c7d729a9a7f132ceac540340f1a4eb7cecc8b04fb076ccaa8f99ba"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.020",
+     "taille": 2400000,
+     "sha256": "38445c82988c7b315f4a34efb800c68c05572a53bbb3abce109952ec6c023587"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.021",
+     "taille": 2400000,
+     "sha256": "3099195bf2fe9d7bc185a1912bf37c26eb3a6a29e1ad0c2f76d9add3bfa326c5"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.022",
+     "taille": 2400000,
+     "sha256": "c04469a846010feb431e4193aa2620189dda900156eb01d408b840ab45e9c93c"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.023",
+     "taille": 2400000,
+     "sha256": "0361278668c9c744dcfa3a748099a8076561c165142251281e7a2b0726466d50"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.024",
+     "taille": 2400000,
+     "sha256": "5b06abdcc009e05d69fedf88e8462a697e490baaf526ee89f3dc897f6c1faf76"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.025",
+     "taille": 2400000,
+     "sha256": "df2d540608644f425590be2035050539b6ee5959f6200ed468dde8843a6713ff"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.026",
+     "taille": 2400000,
+     "sha256": "f034613d8b2e945893edcd48c7482df52cc8517127f82fb253e79db0bdbf83f2"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.027",
+     "taille": 2400000,
+     "sha256": "822866bc67e9ee83ad7f650d4267cb879d9bbe38128e38fd7277bd2fde2c1904"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.028",
+     "taille": 2400000,
+     "sha256": "c86ffee9e2dc42ded7dead86ce3e6319898115864e8cf4364775fd896c753cac"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.029",
+     "taille": 2400000,
+     "sha256": "c505f463c71758f747c05b28d6cce8cb88b4cd70f3e6ac8866455e01b0a953c5"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.030",
+     "taille": 2400000,
+     "sha256": "3c3e2349e2e92d6e332eab0efb1c6ac1e0ab3abade02b05991f45b04abfdb16c"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.031",
+     "taille": 2400000,
+     "sha256": "a13c9d6c7f199b9b992939677dd7959cd803fff9953b8304c906ff7a72d6cd12"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.032",
+     "taille": 2400000,
+     "sha256": "3f3a433e0db11607f31adf1d66d17a4e84c7f05137bdd762eb3c27ff365d099d"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.033",
+     "taille": 2400000,
+     "sha256": "9b15347491c4a27b5adc9a6f5f12aaf66adb5a01a7f6364c61670d8a6e15a0dc"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.034",
+     "taille": 2400000,
+     "sha256": "e552e523298cf0c69b0549eecc87a5a6b1742d86b22af35f4d21ecedc9f39843"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.035",
+     "taille": 2400000,
+     "sha256": "05472550f408ad5816b6ddde1ced59cc06ad55921c194752128ffbd02594f84f"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.036",
+     "taille": 2400000,
+     "sha256": "2c296e8dd6ee37e748702bd8a3c444ba466e7cf84838e14a92f0f5301c3d604c"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.037",
+     "taille": 2400000,
+     "sha256": "791d04f7a0f2b28c3b1fe1ea9c650be07bbb1844bac307bde90eb9b3e8be1fa6"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.038",
+     "taille": 2400000,
+     "sha256": "184fcdd496176ca0d7708d579c799bb56b6e4d5b52dd605b25d37a5f1704e6cd"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.039",
+     "taille": 2400000,
+     "sha256": "70a1079eaaf975b24c8d7b8355b78919831973839cbbb125d0a3f04e19f3b086"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.040",
+     "taille": 2400000,
+     "sha256": "5a35d50c958ae79a497d97a84d097370651a380483143fc56654b6deee9c3863"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.041",
+     "taille": 2400000,
+     "sha256": "ea4e3ea58ca25ce515a7acdfab1617e3869d7b2c4648fd4a8ea051b9dcd9aacf"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.042",
+     "taille": 2400000,
+     "sha256": "a8ef89340495c8cfd666d9e330cffc35211603b3a4c51f8a12200c781d0d0884"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.043",
+     "taille": 2400000,
+     "sha256": "35e54da84bb316810564fe19384c8a5177865fbd7a6b40b986518ad1c26f975d"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.044",
+     "taille": 2400000,
+     "sha256": "533c19e05ff71cae18147c0ac6c299b9c7ceb19e956e5ba209c7059f168e4c52"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.045",
+     "taille": 2400000,
+     "sha256": "7c373e843b1ab5664ef625eca33bab71c9c71a9eb0dd922f21a30480cf5e5f7b"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.046",
+     "taille": 2400000,
+     "sha256": "93b484fe35f6af34d77ba54e81a3a98a14a749c0dfa15ab6aa36bb6739682f31"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.047",
+     "taille": 2400000,
+     "sha256": "3a6303f26c1d9bbbc293a2885abdcd9eb350c05bfa9d7890c09f5825f94eaee6"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.048",
+     "taille": 2400000,
+     "sha256": "e7110401c44b01ea572d6426c6981dea23c791c358ef45efa37705c7ee2fe64d"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.049",
+     "taille": 2400000,
+     "sha256": "0b2717290d08502721670ba0012a4ea57bb033ebb42ecad7c94bc3194ead9040"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.050",
+     "taille": 2400000,
+     "sha256": "973f25bba02ccd9d7f546b313be279bfd95694dd7565cd184a1a8887cdc71d3f"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.051",
+     "taille": 2400000,
+     "sha256": "11b39e99ca4b930b1da6a1fc1d651e3673630fc480e70bedb6506da3c128d95d"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.052",
+     "taille": 2400000,
+     "sha256": "95df6b6462b89cf054915546dcba9955978c42ac7694cfa54c4537e559fb28f9"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.053",
+     "taille": 2400000,
+     "sha256": "fe9ff9bbbc73c37fae19b09c12f092bf49a83d998908d56b6155714b040f27ae"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.054",
+     "taille": 2400000,
+     "sha256": "aa50a967469bc608d4f80cf4747f1949726d5ce77ee0a167ae5e206445b1cca5"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.055",
+     "taille": 2400000,
+     "sha256": "ee48dd86120e94186074d47c5f8839af57e0849b7e4b5bd6ceb6c1a60f7f1230"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.056",
+     "taille": 2400000,
+     "sha256": "baba9dc13b5dae9b735bb716cf1b99ef364c7bc4af9e2b554fed10d207af7fe9"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.057",
+     "taille": 2400000,
+     "sha256": "4e22a87b44bdabfef5c0f1427c0cac7e94b5d620c00aa8e24c88cbf6c71427f1"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.058",
+     "taille": 2400000,
+     "sha256": "b8202694d05e5379ea5c6b3f6d9fe2d0cb3a625a0bca2b625369a7d22dd8a806"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.059",
+     "taille": 2400000,
+     "sha256": "eefaaa1dcdaa5ae6295d42c59af3102402dcbaacad60a83611b08eb0667300b5"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.060",
+     "taille": 2400000,
+     "sha256": "7855ea5a5740587f394f6ac54ebfa3d008606ffb022dc584bccb2e8ff9d70246"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.061",
+     "taille": 2400000,
+     "sha256": "3094bab947fbbcecc4a18eb2b0e163430eb62a2621cca7301d444bc6951f1c19"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.062",
+     "taille": 2400000,
+     "sha256": "a0452ffda4448acaed836eb689fdcc836d95ef4633d0b5890b6af4dc259b141d"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.063",
+     "taille": 2400000,
+     "sha256": "d97c16030b2092f059487301db2497ff8ea4597f14a6d20b082995e24e48bdcf"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.064",
+     "taille": 2400000,
+     "sha256": "bd55707b05f8c3a9777f4c600f53dc2ef7afc04047112b47cc13464d250c9297"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.065",
+     "taille": 2400000,
+     "sha256": "8d69b8b1a18256cad66e9345c1b0bd22063146a5a498b8916644a37a6320ecb5"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.066",
+     "taille": 2400000,
+     "sha256": "70a61a761aa9dd43d9510414b7f394fe578e88b1b914b16139fc3d99d6ca8874"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.067",
+     "taille": 2400000,
+     "sha256": "49589d9370b768f113e15b8e1b30a19f9d4a8e656666b528d899f731f425a850"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.068",
+     "taille": 2400000,
+     "sha256": "fea3bf671471816a10ffe7bec03a4301b8091c91d6b888b294f054c9fd4d57aa"
+    },
+    {
+     "chemin": "phd/fd4695f8d8a51f24b2b5.069",
+     "taille": 260304,
+     "sha256": "c517705f1d71ae22a8a44296013a9e944a1dca88349fa1e5b5ac61636885a438"
+    }
+   ]
+  },
+  {
+   "id": "godothdleger_21_30",
+   "etages": [
+    21,
+    30
+   ],
+   "qualite": "leger",
+   "taille": 82117225,
+   "sha256": "31b6e577b3318595f31fc96d656c6dca3ba69488c1e2c83aad3bd18672a64d65",
+   "fichiers": 250,
+   "parties": [
+    {
+     "chemin": "phd/31b6e577b3318595f31f.000",
+     "taille": 2400000,
+     "sha256": "13f52f0a84f5940cb30f020e1318fb0cd3bc70cc56a0e66623bd7327abba1e80"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.001",
+     "taille": 2400000,
+     "sha256": "76a2074764565191418f494b67e1b795c67659580835e49c00c4e6bd33c3bf84"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.002",
+     "taille": 2400000,
+     "sha256": "c71f00264e795afa728e78bb119f8ce4b5cabef4e91c971b79e10cc6eb024d0c"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.003",
+     "taille": 2400000,
+     "sha256": "2cb92e9e0136d33f1bebd99f6311b05b2b60b00796d592dd82473d33438d4885"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.004",
+     "taille": 2400000,
+     "sha256": "b16ff8fbe781cdafbe0f54c99aec0c84b1a743e35292916fb9287fe80f7d5d92"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.005",
+     "taille": 2400000,
+     "sha256": "8b43ca88067243eb4270a9443346e171ecab40f8b5d1482e4a0d951a8a77726c"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.006",
+     "taille": 2400000,
+     "sha256": "ee5218e56b80a96475ad33cba8d41a33e0480e049ac03f056e6b53bf9298497b"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.007",
+     "taille": 2400000,
+     "sha256": "083944a24b99a78e67b18efd6e901656dd24007cbb23e9be26fd92966754629f"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.008",
+     "taille": 2400000,
+     "sha256": "ad0eed95ccb8b610f376ac37d7717ed429ee4499fc86ffd5dc31a66527119710"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.009",
+     "taille": 2400000,
+     "sha256": "65bf43f34599700547bc849c6b0dfbcadefa558e891f6ed58d3426b74f2d8c32"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.010",
+     "taille": 2400000,
+     "sha256": "3fd6da590d2e5037fada2f19a77fa687fc6a392fdd578505ae65a99bead40a4a"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.011",
+     "taille": 2400000,
+     "sha256": "05cbbd30b39e7c2d682d8cfb838ffbb3162dcb900772fac1770feacad2d4b6a7"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.012",
+     "taille": 2400000,
+     "sha256": "5a68b1a2c1931573f954c4efb7333700a5fe9e21fc75c2ff8b1276424922d8a2"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.013",
+     "taille": 2400000,
+     "sha256": "a70316e3a2d083cbed8765a6e69b757a047ddb26ecd0c79ebe7f2ed2bb4966c6"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.014",
+     "taille": 2400000,
+     "sha256": "bcac9b445fc46858475e9709108d7d9d7ce9b4127ef7b87b350efa31e95c15b8"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.015",
+     "taille": 2400000,
+     "sha256": "a54becd4b8a8dcdf4d569c507a89d6a4816a93c357067f00fb2737e139d82f30"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.016",
+     "taille": 2400000,
+     "sha256": "aab5c0a0c55b2300bab03077d4edc40f58e823334e32d0b13efb1ce7d9d97333"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.017",
+     "taille": 2400000,
+     "sha256": "ec02a076196bfed9f9f35fc65d8543b130af17ccca1309c39c42c9b32b8f05a1"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.018",
+     "taille": 2400000,
+     "sha256": "4262c5dfb3a2ec9e7ac5fde1d5c5dd2182eb2d795b372d2bd4ff8dc71e01e484"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.019",
+     "taille": 2400000,
+     "sha256": "275dd774bea871f81003a7c18e1987b1fd6fe84b522dce009f981ab50af0b7f0"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.020",
+     "taille": 2400000,
+     "sha256": "931920afdf243c53ee27d6bfd6734043e25380ddefe19f109c0189c4bf5c38f4"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.021",
+     "taille": 2400000,
+     "sha256": "3677eb771bb2799ed1d8fb2ab6b4aa1028f4d1476603aa56eb4e36012401e6ce"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.022",
+     "taille": 2400000,
+     "sha256": "d5b16169ee2035b2059ab3b2a21c18133664f2a5355f17a1d93376c1f7b10c31"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.023",
+     "taille": 2400000,
+     "sha256": "38f546299816ef90115c91849d0bdc14f8e9447879337a60d8fde30a1eb1676f"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.024",
+     "taille": 2400000,
+     "sha256": "a806183007c59be9ec2f3f8c1f8f466b641e10da223e9e0f26f80e63e61bf5db"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.025",
+     "taille": 2400000,
+     "sha256": "3d38774873fce0a7a4befc2d45c2d498caf4f89a0e9a3b4bde046ffad9022c75"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.026",
+     "taille": 2400000,
+     "sha256": "235a314d0f1b25fe187d28ce305de0ad3b7921360c7235e387a2a137fa2b96cb"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.027",
+     "taille": 2400000,
+     "sha256": "1c73ead8b8439090d1b4d551f8c8acaf7cc1810283f22a61ff5fc42604f80a86"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.028",
+     "taille": 2400000,
+     "sha256": "4ef7118d99ee4557a382fe07ad408b9ad10c6ce930fa0dd3eff01e8076a57164"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.029",
+     "taille": 2400000,
+     "sha256": "1dbd03bd5d2167d81dbb074d14e5ad4d3128b6a5ac41ffa2e6bab010f303ad9c"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.030",
+     "taille": 2400000,
+     "sha256": "f399e14368531b73bbfd285c8cf60b291e069ba6f68a22cf368b696e5f9f171f"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.031",
+     "taille": 2400000,
+     "sha256": "622645b24586ec3be94500d3f0ecdaeae06755cfea848acc26e8609c1b08abc8"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.032",
+     "taille": 2400000,
+     "sha256": "a5b9d5ebff16634e16b0ca4fd1199dcd2e7caf1e78ca29e88f70b738c313d3d0"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.033",
+     "taille": 2400000,
+     "sha256": "2e6a85025701a0b5ffdf38d32626599b858434694af65fc6eb1c01a0ce972815"
+    },
+    {
+     "chemin": "phd/31b6e577b3318595f31f.034",
+     "taille": 517225,
+     "sha256": "98a6e2a6b7b22c3950ebc386630b5d805ff1372d132ff4db8a39200d2bb04f87"
+    }
+   ]
+  },
+  {
+   "id": "godothd_31_39",
+   "etages": [
+    31,
+    39
+   ],
+   "qualite": "hd",
+   "taille": 134822114,
+   "sha256": "15969df097da218597eb0c22d4828c69441c4d6b5e6ab7f94bf1acbc0e07bbef",
+   "fichiers": 200,
+   "parties": [
+    {
+     "chemin": "phd/15969df097da218597eb.000",
+     "taille": 2400000,
+     "sha256": "58d493969788d50566a3359af7c389fee1e56bdef7b4b71f7e2d4c8831b4b359"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.001",
+     "taille": 2400000,
+     "sha256": "e83dc356fbc6618b0c151ae821a1ddcfa6e8211ac17801d8dc2b84b7d5afe590"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.002",
+     "taille": 2400000,
+     "sha256": "d0a51b6d4bdc7cfcedd59e72458bdae5e87d42cc0f339202ec7bdb6d0258ecf7"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.003",
+     "taille": 2400000,
+     "sha256": "ce23d6b411e0da0363f273d01310668e36903c4136f8e09bda1ed3c238a94aee"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.004",
+     "taille": 2400000,
+     "sha256": "fd6982a60f06dc7044d778e6624499dfecf9b689ba6362a9fac2a1a49728f3d6"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.005",
+     "taille": 2400000,
+     "sha256": "c8c0241d4a6d4a9620c64d26c695c4b201ecad975c2f1d4734de01d1b5b01899"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.006",
+     "taille": 2400000,
+     "sha256": "d00f8999e77acbe3f73381a2c6d1695e39636ee1dcbf61cd5b34bc8708f5359a"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.007",
+     "taille": 2400000,
+     "sha256": "5c36a7ed05d8c13c50fa8dd436b54de5b90d4512d18dc749117ebc4e4bf9296f"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.008",
+     "taille": 2400000,
+     "sha256": "06e85ca59dc0123e7697171e662a4a4c7b6431174c70b0a35cfcd0dec72a33d4"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.009",
+     "taille": 2400000,
+     "sha256": "2d3cb710520a2adad795756517d01ff888612c0d19dfb17ae32879b368305799"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.010",
+     "taille": 2400000,
+     "sha256": "a0570b453592cd6093d7254fa8cd99483a481fb35161afbbd923268588043bc2"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.011",
+     "taille": 2400000,
+     "sha256": "2410620c3ea6513d60054723e84bafc85226c4e794455827cf6de72a738c898a"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.012",
+     "taille": 2400000,
+     "sha256": "a343fbf6e729cc0016341a1f2d512dad525dd3506ed61b0b69e95f3fca5abcf9"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.013",
+     "taille": 2400000,
+     "sha256": "c84e6469876bb7cdae5c6c76029611cf7e35a95e072f8967ceef8cda9f8ba63c"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.014",
+     "taille": 2400000,
+     "sha256": "bf8047707d9ffe99709a70c04cf2381b77d56cf7fdf752ea85a30e4cbdd522b3"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.015",
+     "taille": 2400000,
+     "sha256": "0c7f8123a0155742cb7dda4272951b1e005cb1a0e8bef77e9bc8aa7947845143"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.016",
+     "taille": 2400000,
+     "sha256": "c7636925c54631fe0b0559dc95c9c8f4da4495edd3867a2e2632b52ba5d26417"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.017",
+     "taille": 2400000,
+     "sha256": "8390b5313258cbc1daf3bf16b05b98c8d2e618be6d37093ece66b92bba6c1704"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.018",
+     "taille": 2400000,
+     "sha256": "ee63e5d6b1218fc1b4981550a89ef150afac6f94043695c859574aa8662d930a"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.019",
+     "taille": 2400000,
+     "sha256": "e1e1703184f21ac56c75122674439c93aa02486aaa7cc7c47974aed33be2c44c"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.020",
+     "taille": 2400000,
+     "sha256": "2e66018abaad68dab82925bcfbf367253282f5029386feaf56fb54ad2ff2ec09"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.021",
+     "taille": 2400000,
+     "sha256": "f77f177ee29708fd4777c5a9352ba05d4e2a8c6dfe0d3304e324d278066c9bfd"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.022",
+     "taille": 2400000,
+     "sha256": "6c32035188652e639ca56c908acaa01f476b4123c598ea96e0ec3b4cd2ff935a"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.023",
+     "taille": 2400000,
+     "sha256": "f9b50ea705173ec0fe840eb16ffe5c379e51936d5db1e4113ef76089be751ec9"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.024",
+     "taille": 2400000,
+     "sha256": "a8c0659bcfde0627a8b204db028b3bea0dee95e9a3b54d4bf16ba137869afcb3"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.025",
+     "taille": 2400000,
+     "sha256": "5261b958007f96c705c09477644e8ef6604df44b2b7d34b69c5b61a4fd5bfb60"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.026",
+     "taille": 2400000,
+     "sha256": "3e9e30a3d2c76240503c619e7d77c6a8580b694fb1d24dbdc2242871e692f7e4"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.027",
+     "taille": 2400000,
+     "sha256": "83f8981d4999e920e270fe3e27b4e22d0a3569558befb6f175a03a99b700348d"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.028",
+     "taille": 2400000,
+     "sha256": "4368e0b4172f1e162e8d40d5f150a9ae42dd7a352785dc75040e49822fdcb85f"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.029",
+     "taille": 2400000,
+     "sha256": "7ef7e8472a1becafddf6be4464edb8eb07979e38007f840aa47ea10190f8539f"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.030",
+     "taille": 2400000,
+     "sha256": "4990b6cb25df89e0af29caee2e9207073b134efbfc34c68239fded03c677c54f"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.031",
+     "taille": 2400000,
+     "sha256": "492392dcc4c04825d1abcf9271e26a80776e64db6e2c2ad6060279087ccb3f75"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.032",
+     "taille": 2400000,
+     "sha256": "db0bb8e5fd7cc12f2a001eef30e97c099cbbff8e722f6cf996932bea27e8eadf"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.033",
+     "taille": 2400000,
+     "sha256": "30fc82e2758ce0514984fe02f65b88cd0f33e7b43a38a96f4e82e8ce0780f32b"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.034",
+     "taille": 2400000,
+     "sha256": "6ae64bdbdeefd747ede61dfc5698611a0f8ccda5b21a922c4138284c95d6a759"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.035",
+     "taille": 2400000,
+     "sha256": "890d6bcae54458f49c2d8432a42f4efc9e616cc20893080a3432dba49beb2874"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.036",
+     "taille": 2400000,
+     "sha256": "24b29ff34ba2b7a3937bc1d4910c74c523999fa1db221e1e027c218b80a0356e"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.037",
+     "taille": 2400000,
+     "sha256": "ac3cb4c6ddf59a77669c71a2f7c78cb1ddb7996c3fe776b73b32ea0c5508e4d2"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.038",
+     "taille": 2400000,
+     "sha256": "3c793ca8219b941f43084da40edd15068182fca9c619856570dd425840677cad"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.039",
+     "taille": 2400000,
+     "sha256": "8a84e38e81e036b2beae4c3c7db592fa33a90ef02ab09fbe70865f4602fdac0f"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.040",
+     "taille": 2400000,
+     "sha256": "c55f2f9d0907cee4b1e0c0a250a6418e0836905407320db23a756ada43f2c9a2"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.041",
+     "taille": 2400000,
+     "sha256": "ae386402c7c9301cec34e901f864510f0798f109e06c1cd8894e34a4dc4f7133"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.042",
+     "taille": 2400000,
+     "sha256": "956687b44cd990478339dc5ca7abcfb5a2a64f5f71409fe777f93074633e9e45"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.043",
+     "taille": 2400000,
+     "sha256": "e5f08215a0edf08f88456f122517051d3e9c868853fb22b252b782c42ab7ac6b"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.044",
+     "taille": 2400000,
+     "sha256": "6a2399474d50793ee8b98b88cc7204c256cd8be81895be65b4e12361038afc3f"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.045",
+     "taille": 2400000,
+     "sha256": "072bea68a63e25503efe1eabd320b3952beac6d3b06ffd9e0482878cc829fbd5"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.046",
+     "taille": 2400000,
+     "sha256": "957976652b65dcf82f09bed2ce4363b80f65348d2707cc4458896fc3f425c566"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.047",
+     "taille": 2400000,
+     "sha256": "cdb638efcb3f0d2e03ba2b55f4dec79c67b7cb40430fcccebb917e83cce29818"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.048",
+     "taille": 2400000,
+     "sha256": "d9d8ca947a318f3e019251c8c400b7a910e31f2523c846f1a90e4224e3bc9208"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.049",
+     "taille": 2400000,
+     "sha256": "1e0e5e90ed809a997b3a44127852cd69ca881488db2c49775940102190ab250e"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.050",
+     "taille": 2400000,
+     "sha256": "c7ae125bfad0cc627dcb4fc8d254cdfae92fcbb4897b24164deea61a10379a1c"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.051",
+     "taille": 2400000,
+     "sha256": "0c375d634bc9298f55665eb58316d048da24001ec52d11a345a39a047f55c600"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.052",
+     "taille": 2400000,
+     "sha256": "5959dd9296237f85ad15b2b1b1286526bcc233a54665e49ea19f1ef1f231f14e"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.053",
+     "taille": 2400000,
+     "sha256": "ba3a0b0af651b33947e5e587e7f2e42296be249153bcec534af5a315d82af776"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.054",
+     "taille": 2400000,
+     "sha256": "61b416bda44529c850164047d712804863207a968371e7b36a50f8293bc9c726"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.055",
+     "taille": 2400000,
+     "sha256": "04ee70be65f830d66a4374195a0873dc374b7e721cb56b6ad9a84b7920d7e515"
+    },
+    {
+     "chemin": "phd/15969df097da218597eb.056",
+     "taille": 422114,
+     "sha256": "2d95cc4b1cc9a4e4a489838413b6c9fd639804e8a3f3c284cd6a61ee56b5d55e"
+    }
+   ]
+  },
+  {
+   "id": "godothdleger_31_39",
+   "etages": [
+    31,
+    39
+   ],
+   "qualite": "leger",
+   "taille": 63244455,
+   "sha256": "aa12de12470d8525acd604ef8702f02952216bff9886626c9289f821b4f88188",
+   "fichiers": 200,
+   "parties": [
+    {
+     "chemin": "phd/aa12de12470d8525acd6.000",
+     "taille": 2400000,
+     "sha256": "ef5f2b6fd79eacdb910b5190c3ec0a93873f31af5981867a5e567fd36d13b6f3"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.001",
+     "taille": 2400000,
+     "sha256": "54522cb438196b895a01b688caf6eb6363bb0888dec9d8bb40e51b5a8498651e"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.002",
+     "taille": 2400000,
+     "sha256": "575635f7f8e2d9b64cfeb8394215de00942504c45926f7958733b5249ce4e45a"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.003",
+     "taille": 2400000,
+     "sha256": "5b668f63527489b8f137e1511e8e59b4902fb31f492a4a2ef3c2d4ba379e4f80"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.004",
+     "taille": 2400000,
+     "sha256": "2d3317be6c6086676338c86eda8a303e532ab3c569cc121248d8ec3d7f1b2f36"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.005",
+     "taille": 2400000,
+     "sha256": "c40f4c5ac39adf405ee69d3db8e1eac05f15f6ed3337b738e1deb98508232b8f"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.006",
+     "taille": 2400000,
+     "sha256": "91a815ee63eb4c854336ca7eebbd4b6ffa14e585fe5694bbcaddfc47dadd5cb5"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.007",
+     "taille": 2400000,
+     "sha256": "1308256ee4926f8e37746dc0bef66283efe6562a1152a9068d559a160c6c84e4"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.008",
+     "taille": 2400000,
+     "sha256": "a625389c26d36fcdcde7bf95a7db53da80bcdee3d8fb0ce27b95b012403eb5d3"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.009",
+     "taille": 2400000,
+     "sha256": "4be0949e1016bcb149ac731ffc4aab6bc71703246f8637c55512f73275a714d3"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.010",
+     "taille": 2400000,
+     "sha256": "1d4b0b2b09837e6f9a8594c60e5c313f75e768842ce5badaf822f7cda7ede58c"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.011",
+     "taille": 2400000,
+     "sha256": "5b1e7ac7afb34378433c01ea68edfdeed143214873a660b96df61202329f493d"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.012",
+     "taille": 2400000,
+     "sha256": "0e979cf9f655b88bb9ef80652053fbf049c4a19c7751301eb0ad4100941819e8"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.013",
+     "taille": 2400000,
+     "sha256": "9a810de4f06c2509cf9353ac5b19d919e7f5061696e590ba0c792128d96a1a7e"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.014",
+     "taille": 2400000,
+     "sha256": "ed4d8d99da4951abe8c48a7332a0b7225081134c58d56038f605f9e617e06870"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.015",
+     "taille": 2400000,
+     "sha256": "ca19f7d14335729eedf9dc1d11260fc01b521595bec9c5a86ff48cd84d6fab1c"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.016",
+     "taille": 2400000,
+     "sha256": "2c0162851db6f3e7339c681ec4c9f79e871835ad1d81d387a1b82169997eced8"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.017",
+     "taille": 2400000,
+     "sha256": "a98dc8c934af4a28a1f502bd1d4f5392c501d95d018ffa5bcbfd7820daf49f53"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.018",
+     "taille": 2400000,
+     "sha256": "fc2377ddf43822c3768ce590632665aa48c9c979ba6a8a6941137942a6e946d5"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.019",
+     "taille": 2400000,
+     "sha256": "6febe2ee400ae245d3cf0e27dee8a30e23706313ef529055340453107284a5d3"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.020",
+     "taille": 2400000,
+     "sha256": "762922c746f4e769cf2b640a9310982e0bdf8373ef5ec22263b7e643ed00cdf8"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.021",
+     "taille": 2400000,
+     "sha256": "b8c81763ac75b4f388887172de9f177b475f69a8862d911ae1e6ae79dcb3efea"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.022",
+     "taille": 2400000,
+     "sha256": "6817c8ab323cf19b4bcacba38eec38135992424708615fab14dd680e4777be89"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.023",
+     "taille": 2400000,
+     "sha256": "d407006336ed8819db7906f0334770db9a3a6e09c81ab486fe6d7e9ac87c61cb"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.024",
+     "taille": 2400000,
+     "sha256": "b8b9ac2de2e4b6f3fd57c899e476e62d8eb5ceca43f6c69a6cabf09012fdf7f0"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.025",
+     "taille": 2400000,
+     "sha256": "739a74a1d10a14b02ae8b22347c9e777ffb551b24147b5b817fed5966fce3655"
+    },
+    {
+     "chemin": "phd/aa12de12470d8525acd6.026",
+     "taille": 844455,
+     "sha256": "d45a4174533f857db68ed59e036a938bfe4169d7431e302ec607990ae5f48df1"
+    }
+   ]
+  }
+ ]
+}
